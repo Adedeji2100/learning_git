@@ -1,0 +1,38 @@
+p{
+font-weight: bold;
+color: blue;
+font-size: 200%;
+}
+h1,h2{
+    color: green;
+}
+a:hover{
+color: darkred;
+}
+.example{
+    color: chartreuse;
+}
+
+.parent{
+    display: flex;
+}
+.b1{
+    width: 100px;
+    height:100px ;
+    background-color: red;
+    opacity: 0.1;
+}
+
+.b2{
+    border: 3px solid red;
+    width: 100px;
+    height:100px ;
+    padding: 2px 3px 4px 5px;
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+}
+.ext{
+    background-color: brown;
+}
